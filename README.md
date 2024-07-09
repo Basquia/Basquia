@@ -1,6 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-<h2 align="left">Hi 👋! My name is Henrique!</h2>
+<h1 align="left">Hey 👋 What's up? My name is Henrique!</h1>
 
 
 - 🔭 I’m currently working on websites and web applications.
